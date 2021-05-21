@@ -1,7 +1,7 @@
 [
 	{
 		"path": "/mws/v1/async-menu/{id}",
-		"class": "MWStake\\MediaWiki\\Component\\CommonWebAPIs\\Rest\\AsyncMenuHandler",
+		"class": "MWStake\\MediaWiki\\Component\\CommonWebAPIs\\Rest\\Handler\\AsyncMenu",
 		"services": [
 			"LinkRenderer",
 			"DBLoadBalancer",
